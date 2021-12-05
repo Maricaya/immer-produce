@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "@types/jest": "^27.0.3",
+    "@types/node": "^16.11.11",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "jest": "^27.4.3",
+    "lodash": "^4.17.21",
+    "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
+  }
+}
